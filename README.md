@@ -95,7 +95,7 @@ Admin can create and send newsletters to inform users about the latest updates o
 - **Questions Management**  
 Admin can view all questions submitted by users and delete inappropriate or unwanted questions manually.  
 An automatic filtering system removes questions containing specific prohibited words.  
-![Questions Management](Images/Questions Management.png)
+![Questions Management](Images/Questions-Management.png)
 
 ---
 

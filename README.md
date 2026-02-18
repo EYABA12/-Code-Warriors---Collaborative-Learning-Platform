@@ -23,43 +23,65 @@ The goal is to help people learn better by sharing knowledge:
 ---
 
 ## 🏆 Competition Experience
-Developing this project in just 20 days was a rewarding challenge. This experience was more than just coding; it was a journey of professional growth.
-
-### 👥 Teamwork & Collaboration
-Working in a team under a tight deadline taught us how to:  
-
-- Synchronize tasks between Front-End and Back-End development  
-- Use Agile methodologies to meet daily goals  
-- Resolve technical conflicts quickly and efficiently  
+- Completed in **20 days** → managing time under pressure  
+- Learned **teamwork**, **task synchronization**, and **rapid bug fixing**  
+- Presented to a professional jury  
 
 ---
 
 ## 📸 Screenshots
-Some screenshots from the site:
 
-### Public Pages
+### Public / User Pages
 - **Home Page**  
-![Home Page](Images/HomePage.png)  
+![Home Page](images/HomePage.png)
+
 - **Sign In Page**  
-![Sign In Page](Images/SignIn.png)  
+![Sign In](images/SignIn.png)
+
 - **Sign Up Page**  
-![Sign Up Page](Images/SignUp.png)  
-- **Contact Page**  
-![Contact Page](Images/contact.png)  
-- **User Profile**  
-![User Profile](Images/profilUser.png)  
+![Sign Up](images/SignUp.png)
+
+- **Forgot Password / Reset Password**  
+![Forgot Password](images/ForgotPassword.png)  
+![Reset Password](images/ResetPassword.png)
+
+- **User Profile Page**  
+![User Profile](images/profilUser.png)  
+
+- **Manage User Profile**  
+![Manage Profile](images/ManageProfile.png)
+
+### Questions & Articles
+- **All Questions Page**  
+![All Questions](images/Question.png)
+
+- **Single Question Page** (view question + multiple answers + add answer)  
+![Single Question](images/OneQuestion.png)
+
+- **Categories Page** (example: Web Development)  
+![Categories](images/Categories.png)
+
+- **Articles List Page**  
+![Articles List](images/ArticlesList.png)
+
+- **Article Details Page** (view single article content)  
+![Article Details](images/ArticleDetails.png)
 
 ### Admin Dashboard
 - **Website Management**  
-![Admin Website Management](Images/Admin-website-management.png)  
+![Admin Website Management](images/Admin-website-management.png)
+
 - **Best Practices**  
-![Admin Best Practices](Images/Admin-bestPractices.png)  
+![Admin Best Practices](images/Admin-bestPractices.png)
+
 - **Accounts Management**  
-![Admin Accounts](Images/Admin-accounts.png)  
+![Admin Accounts](images/Admin-accounts.png)
+
 - **Articles Management**  
-![Admin Articles](Images/Admin-articles.png)  
+![Admin Articles](images/Admin-articles.png)
+
 - **Newsletter Management**  
-![Admin Newsletter](Images/Admin-Newsletter.png)  
+![Admin Newsletter](images/Admin-Newsletter.png)
 
 ---
 

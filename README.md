@@ -6,14 +6,6 @@ This project was completed during a **20-day competition** with a great team.
 
 ---
 
-## 💡 Project Idea
-The goal is to help people learn better by sharing knowledge:
-
-- **Ask & Answer**: Help others solve coding problems  
-- **Share Tips**: Write articles about Web Development, AI, and more  
-- **Connect**: Build a community of learners  
-
----
 
 ## 🛠 Technologies Used
 - **Front-End:** Angular, TypeScript, Bootstrap  

@@ -39,27 +39,27 @@ Some screenshots from the site:
 
 ### Public Pages
 - **Home Page**  
-![Home Page](images/HomePage.png)  
+![Home Page](Images/HomePage.png)  
 - **Sign In Page**  
-![Sign In Page](images/SignIn.png)  
+![Sign In Page](Images/SignIn.png)  
 - **Sign Up Page**  
-![Sign Up Page](images/SignUp.png)  
+![Sign Up Page](Images/SignUp.png)  
 - **Contact Page**  
-![Contact Page](images/contact.png)  
+![Contact Page](Images/contact.png)  
 - **User Profile**  
-![User Profile](images/profilUser.png)  
+![User Profile](Images/profilUser.png)  
 
 ### Admin Dashboard
 - **Website Management**  
-![Admin Website Management](images/Admin-website-management.png)  
+![Admin Website Management](Images/Admin-website-management.png)  
 - **Best Practices**  
-![Admin Best Practices](images/Admin-bestPractices.png)  
+![Admin Best Practices](Images/Admin-bestPractices.png)  
 - **Accounts Management**  
-![Admin Accounts](images/Admin-accounts.png)  
+![Admin Accounts](Images/Admin-accounts.png)  
 - **Articles Management**  
-![Admin Articles](images/Admin-articles.png)  
+![Admin Articles](Images/Admin-articles.png)  
 - **Newsletter Management**  
-![Admin Newsletter](images/Admin-Newsletter.png)  
+![Admin Newsletter](Images/Admin-Newsletter.png)  
 
 ---
 

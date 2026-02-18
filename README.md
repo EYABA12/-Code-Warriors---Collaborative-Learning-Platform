@@ -37,9 +37,6 @@ This project was completed during a **20-day competition** with a great team.
 - **Reset Password Page**  
 ![Reset Password](Images/ResetPassword.png)
 
-- **User Profile Page**  
-![User Profile](Images/profilUser.png)  
-
 - **Manage User Profile**  
 ![Manage Profile](Images/ManageProfile.png)
 

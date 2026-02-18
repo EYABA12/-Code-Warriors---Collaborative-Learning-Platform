@@ -55,6 +55,8 @@ When a user selects a category (e.g., Web Development), they are taken to a page
 ![Categories](Images/Categories.png)
 
 - **Articles List Page**  
+
+This page displays **all published articles**. Users can also **filter articles by domain**, such as **DevOps, Web Development, or AI**, making it easy to find content relevant to their interests.  
 ![Articles List](Images/ArticlesList.png)
 
 - **About Page**  

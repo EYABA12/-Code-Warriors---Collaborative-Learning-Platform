@@ -19,28 +19,6 @@ This project was completed during a **20-day competition** with a great team.
 - Presented to a professional jury  
 
 ---
-
-## 📹 Video Demo
-Watch the platform in action:  
-[![Watch the video](https://github.com/EYABA12/code-warriors/blob/master/screenshot.PNG)](https://vimeo.com/manage/videos/943214153/privacy)
-
-> Click the image to view the demo video on Vimeo.
-
----
-
-## 🎓 Certificates
-Here are some certificates received during the competition or relevant courses:  
-
-![Certificate ](Images/Certificate.png)  
----
-
-## 📸 Competition Highlights
-Some photos from the 20-day competition experience:  
-
-![Day of the Competition](Images/Day-of-the Competition.jpg)  
-
----
-
 ## 📸 Screenshots
 
 ### Public / User Pages
@@ -120,4 +98,24 @@ An automatic filtering system removes questions containing specific prohibited w
 
 ---
 
+## 📹 Video Demo
+Watch the platform in action:  
+[![Watch the video](https://github.com/EYABA12/code-warriors/blob/master/screenshot.PNG)](https://vimeo.com/manage/videos/943214153/privacy)
+
+> Click the image to view the demo video on Vimeo.
+
+---
+
+## 🎓 Certificate
+Here is the certificate I received for participating in the competition:  
+
+![Certificate ](Images/Certificate.png)  
+---
+
+## 📸 Competition Highlight
+Here is a photo from the 20-day competition experience:  
+
+![Competition Day](Images/Day-of-the Competition.jpg)
+
+---
 

@@ -116,7 +116,7 @@ Here is the certificate I received for participating in the competition:
 ## 📸 Competition Highlight
 Here is a photo from the 20-day competition experience:  
 
-![Competition Day](Images/Day-of-the Competition.jpg)
+![Competition Day](Images/Day-of-the-Competition.jpg)
 
 ---
 

@@ -31,16 +31,13 @@ Watch the platform in action:
 ## 🎓 Certificates
 Here are some certificates received during the competition or relevant courses:  
 
-![Certificate 1](Images/certificate1.png)  
-![Certificate 2](Images/certificate2.png)  
-
+![Certificate ](Images/certificate.png)  
 ---
 
 ## 📸 Competition Highlights
 Some photos from the 20-day competition experience:  
 
-![Competition Photo 1](Images/competition1.png)  
-![Competition Photo 2](Images/competition2.png)  
+![Day of the Competition](Images/Day-of-the Competition.png)  
 
 ---
 

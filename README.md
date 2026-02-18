@@ -33,55 +33,55 @@ The goal is to help people learn better by sharing knowledge:
 
 ### Public / User Pages
 - **Home Page**  
-![Home Page](images/HomePage.png)
+![Home Page](Images/HomePage.png)
 
 - **Sign In Page**  
-![Sign In](images/SignIn.png)
+![Sign In](Images/SignIn.png)
 
 - **Sign Up Page**  
-![Sign Up](images/SignUp.png)
+![Sign Up](Images/SignUp.png)
 
 - **Forgot Password / Reset Password**  
-![Forgot Password](images/ForgotPassword.png)  
-![Reset Password](images/ResetPassword.png)
+![Forgot Password](Images/ForgotPassword.png)  
+![Reset Password](Images/ResetPassword.png)
 
 - **User Profile Page**  
-![User Profile](images/profilUser.png)  
+![User Profile](Images/profilUser.png)  
 
 - **Manage User Profile**  
-![Manage Profile](images/ManageProfile.png)
+![Manage Profile](Images/ManageProfile.png)
 
 ### Questions & Articles
 - **All Questions Page**  
-![All Questions](images/Question.png)
+![All Questions](Images/Question.png)
 
 - **Single Question Page** (view question + multiple answers + add answer)  
-![Single Question](images/OneQuestion.png)
+![Single Question](Images/OneQuestion.png)
 
 - **Categories Page** (example: Web Development)  
-![Categories](images/Categories.png)
+![Categories](Images/Categories.png)
 
 - **Articles List Page**  
-![Articles List](images/ArticlesList.png)
+![Articles List](Images/ArticlesList.png)
 
 - **Article Details Page** (view single article content)  
-![Article Details](images/ArticleDetails.png)
+![Article Details](Images/ArticleDetails.png)
 
 ### Admin Dashboard
 - **Website Management**  
-![Admin Website Management](images/Admin-website-management.png)
+![Admin Website Management](Images/Admin-website-management.png)
 
 - **Best Practices**  
-![Admin Best Practices](images/Admin-bestPractices.png)
+![Admin Best Practices](Images/Admin-bestPractices.png)
 
 - **Accounts Management**  
-![Admin Accounts](images/Admin-accounts.png)
+![Admin Accounts](Images/Admin-accounts.png)
 
 - **Articles Management**  
-![Admin Articles](images/Admin-articles.png)
+![Admin Articles](Images/Admin-articles.png)
 
 - **Newsletter Management**  
-![Admin Newsletter](images/Admin-Newsletter.png)
+![Admin Newsletter](Images/Admin-Newsletter.png)
 
 ---
 

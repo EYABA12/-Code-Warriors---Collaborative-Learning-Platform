@@ -31,13 +31,13 @@ Watch the platform in action:
 ## 🎓 Certificates
 Here are some certificates received during the competition or relevant courses:  
 
-![Certificate ](Images/certificate.png)  
+![Certificate ](Images/Certificate.png)  
 ---
 
 ## 📸 Competition Highlights
 Some photos from the 20-day competition experience:  
 
-![Day of the Competition](Images/Day-of-the Competition.png)  
+![Day of the Competition](Images/Day-of-the Competition.jpg)  
 
 ---
 
@@ -120,5 +120,4 @@ An automatic filtering system removes questions containing specific prohibited w
 
 ---
 
-## 🔗 GitHub Link
-[View the project on GitHub](https://github.com/YOUR_USERNAME/code-warriors)
+

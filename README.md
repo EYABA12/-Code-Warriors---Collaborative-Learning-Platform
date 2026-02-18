@@ -51,8 +51,10 @@ This project was completed during a **20-day competition** with a great team.
 (view question + multiple answers + add answer)  
 ![Single Question](Images/OneQuestion.png)
 
-- **Categories Page**  
+### Categories Page
 (example: Web Development)  
+
+When a user selects a category (e.g., Web Development), they are taken to a page that displays **all questions, articles, and answers related to that category**, making it easy to explore content by topic.  
 ![Categories](Images/Categories.png)
 
 - **Articles List Page**  
